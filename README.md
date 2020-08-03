@@ -2,7 +2,7 @@
 
 Resources for learning about dataviz!
 
-# JS Libraries
+## JS Libraries
 
 ###### General Charting
 
@@ -40,30 +40,30 @@ Resources for learning about dataviz!
 
 - [Metric Graphs](https://metricsgraphicsjs.org/) Metrics!
 
-# Work in the wild
+## Work in the wild
 
 - [The Pudding](https://pudding.cool/)
 
-# Blogs & Podcasts
+## Blogs & Podcasts
 
 - [Dataviz Today](https://dataviztoday.com/) Hosted by [Alli Torban](https://dataviztoday.com/about), who shares the "latest tools and methods that she’s discovered while on the job and interviewing top designers." Made with analysts, journalists, & designers in mind.
 - [Data Stories](http://datastori.es/) Podcast with with NYU prof. [Enrico Bertini](http://enrico.bertini.io/) & [Moritz Stefaner](http://truth-and-beauty.net/)
 - [Questions in Dataviz](https://questionsindataviz.com/) Blog from [Neil Richards](https://twitter.com/theneilrichards)
 
-# General Resources
+## General Resources
 
 - [r/vizualization](https://www.reddit.com/r/visualization/)
 - [Seeing Theory](https://seeing-theory.brown.edu/) Brown University intro: probablity & statistics
 - [Seeing Data](http://seeingdata.org/) Considering the role of dataviz in society
 - [The Data Vizualization Catalog](https://datavizcatalogue.com/resources.html)
 
-# People
+## People
 
 - [Nadieh Bremer](https://www.visualcinnamon.com/)
 - [Joshua Smith](https://medium.com/@jdsmith5566)
 - [Niel Richards](https://questionsindataviz.com/)
 
-# Conferences
+## Conferences
 
 - [Vizualizing Knowledge](https://vizknowledge.aalto.fi/)
 - [Data Viz Live](https://tucana-global.com/datavizlive-online/)
