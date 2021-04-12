@@ -58,6 +58,7 @@ Resources for learning about dataviz and data narratives!
 
 ## General Resources
 
+- [Observable](https://observablehq.com/) data viz community site
 - [Fundamentals of Data Vizualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/) by Claus O. Wilke (2019)
 - [r/vizualization](https://www.reddit.com/r/visualization/)
 - [Seeing Theory](https://seeing-theory.brown.edu/) Brown University intro: probablity & statistics
@@ -65,6 +66,7 @@ Resources for learning about dataviz and data narratives!
 - [The Data Vizualization Catalog](https://datavizcatalogue.com/resources.html)
 - [Data Visualization: A Practical Introduction](https://socviz.co/) by Kieran Healy (2019)
 - [Visualizing](https://www.visualizing.org/) community
+- [UW Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum) data and viz course with Python & Jupyter notebooks. JavaScript notebooks also available via Observable.
 
 ## People
 
