@@ -54,7 +54,7 @@ Resources for learning about dataviz and data narratives!
 - [Dataviz Today](https://dataviztoday.com/) Hosted by [Alli Torban](https://dataviztoday.com/about), who shares the "latest tools and methods that she’s discovered while on the job and interviewing top designers." Made with analysts, journalists, & designers in mind.
 - [Questions in Dataviz](https://questionsindataviz.com/) Blog from [Neil Richards](https://twitter.com/theneilrichards)
 - [Data Stories](https://datastori.es/) Podcast from Enrico Bertini & Moritz Stefaner
-- [DataFramed] Podcast - data science with Hugo Bowne-Anderson. 
+- [DataFramed](https://www.datacamp.com/community/podcast) Podcast - data science with Hugo Bowne-Anderson. 
 
 ## General Resources
 
