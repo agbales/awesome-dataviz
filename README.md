@@ -30,7 +30,7 @@ Resources for learning about dataviz and data narratives!
 
 ###### 3D
 
--[React Three Fiber](https://github.com/pmndrs/react-three-fiber) React renderer for threejs
+- [React Three Fiber](https://github.com/pmndrs/react-three-fiber) React renderer for threejs
 - [three.js](https://threejs.org/) 3d animations with WebGL
 - [Highcharts 3D](https://www.highcharts.com/docs/chart-concepts/3d-charts)
 
