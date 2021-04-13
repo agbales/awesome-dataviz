@@ -11,12 +11,12 @@ Resources for learning about dataviz and data narratives!
 - [Raphaël](https://dmitrybaranovskiy.github.io/raphael/) Vector graphics
 - [C3.js](https://github.com/c3js/c3) D3-based reusable chart library
 - [Google Charts](https://developers.google.com/chart) No frills, Google-maintained
-- [VX](https://vx-demo.now.sh/) So pretty! Less robust than I'd hoped on my last usage (2019)
 - [Timeline](http://timeline.knightlab.com/) from Knight Lab at Northwestern University.
 
 ###### React Specific
 
 - [Nivo](https://nivo.rocks/#/) Clean, robust, great docs
+- [VX](https://vx-demo.now.sh/) React + D3
 - [Recharts](https://recharts.org/en-US/) Gerneral charting
 - [Victory](https://formidable.com/open-source/victory/) React components from Formiddable's [Lauren Eastridge](https://github.com/boygirl)
 - [react-vis](https://github.com/uber/react-vis) No frills general charting
