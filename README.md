@@ -10,6 +10,8 @@ Resources for learning about dataviz and data narratives!
 - [Highcharts](https://www.highcharts.com/) SVG charting
 - [Raphaël](https://dmitrybaranovskiy.github.io/raphael/) Vector graphics
 - [C3.js](https://github.com/c3js/c3) D3-based reusable chart library
+- [Britecharts](https://britecharts.github.io/britecharts/) D3-based reusable chart library
+- [Billboard](https://github.com/naver/billboard.js) fork of C3, with D3 v4 compatibility
 - [Google Charts](https://developers.google.com/chart) No frills, Google-maintained
 - [Timeline](http://timeline.knightlab.com/) from Knight Lab at Northwestern University.
 
@@ -18,6 +20,8 @@ Resources for learning about dataviz and data narratives!
 - [Nivo](https://nivo.rocks/#/) Clean, robust, great docs
 - [VX](https://vx-demo.now.sh/) React + D3
 - [Recharts](https://recharts.org/en-US/) Gerneral charting
+- [Victory](https://formidable.com/open-source/victory/) Formidable Labs' library atop D3
+- [Britecharts React](https://britecharts.github.io/britecharts-react/) D3-based reusable chart library
 - [Victory](https://formidable.com/open-source/victory/) React components from Formiddable's [Lauren Eastridge](https://github.com/boygirl)
 - [react-vis](https://github.com/uber/react-vis) No frills general charting
 - [react-table](https://react-table.tanstack.com/) Simple & custom tables
@@ -26,6 +30,7 @@ Resources for learning about dataviz and data narratives!
 ###### From Scratch
 
 - [D3](https://d3js.org/) Foundational, powerful, custom charts
+- [D3FC](https://d3fc.io/) higher-level component starting point with D3
 - [Textures](https://riccardoscalco.it/textures/) SVG patterns
 
 ###### 3D
@@ -37,7 +42,10 @@ Resources for learning about dataviz and data narratives!
 ###### Mapping
 
 - [Google Maps](https://developers.google.com/maps/documentation/javascript/overview)
-- [Polymaps](http://polymaps.org/) Image- and vector-tiled maps using SVG
+- [Polymaps](http://polymaps.org/) image- and vector-tiled maps using SVG
+- [Leaflet](https://leafletjs.com/) open-source js mapping
+- [Mapbox](https://www.mapbox.com/) stylish, free + paid
+- [React Map GL](https://github.com/visgl/react-map-gl) a React API for Mapbox GL
 
 ###### Dashboard
 
