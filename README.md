@@ -49,12 +49,13 @@ Resources for learning about dataviz and data narratives!
 - [Information Is Beautiful](https://informationisbeautiful.net/)
 - [Visual Complexity](http://www.visualcomplexity.com/vc/)
 
-## Blogs & Podcasts
+## Blogs, Podcasts, Community
 
 - [Dataviz Today](https://dataviztoday.com/) Hosted by [Alli Torban](https://dataviztoday.com/about), who shares the "latest tools and methods that she’s discovered while on the job and interviewing top designers." Made with analysts, journalists, & designers in mind.
 - [Questions in Dataviz](https://questionsindataviz.com/) Blog from [Neil Richards](https://twitter.com/theneilrichards)
 - [Data Stories](https://datastori.es/) Podcast from Enrico Bertini & Moritz Stefaner
 - [DataFramed](https://www.datacamp.com/community/podcast) Podcast - data science with Hugo Bowne-Anderson. 
+- [Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/) subreddit
 
 ## General Resources
 
