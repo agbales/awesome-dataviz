@@ -68,6 +68,7 @@ Resources for learning about dataviz and data narratives!
 ## General Resources
 
 - [Observable](https://observablehq.com/) data viz community site
+- [Data Visualisation Catalogue](https://datavizcatalogue.com/) chart use cases & descriptions
 - [Data Viz Project](https://datavizproject.com/) chart use cases from Ferdio
 - [Fundamentals of Data Vizualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/) by Claus O. Wilke (2019)
 - [r/vizualization](https://www.reddit.com/r/visualization/)
