@@ -17,6 +17,7 @@ Resources for learning about dataviz and data narratives!
 
 ###### React Specific
 
+- [Semiotic](https://semiotic.nteract.io/) data visualization framework
 - [Nivo](https://nivo.rocks/#/) Clean, robust, great docs
 - [VX](https://vx-demo.now.sh/) React + D3
 - [Recharts](https://recharts.org/en-US/) Gerneral charting
@@ -71,6 +72,7 @@ Resources for learning about dataviz and data narratives!
 - [Data Visualisation Catalogue](https://datavizcatalogue.com/) chart use cases & descriptions
 - [Data Viz Project](https://datavizproject.com/) chart use cases from Ferdio
 - [Data to Viz](https://www.data-to-viz.com/) decision tree: which chart type for data?
+- [Xenographics](https://xeno.graphics/) "weird but (sometimes) useful charts"
 
 ## General Resources
 
