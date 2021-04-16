@@ -65,16 +65,20 @@ Resources for learning about dataviz and data narratives!
 - [DataFramed](https://www.datacamp.com/community/podcast) Podcast - data science with Hugo Bowne-Anderson. 
 - [Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/) subreddit
 
+
+## Chart Types
+
+- [Data Visualisation Catalogue](https://datavizcatalogue.com/) chart use cases & descriptions
+- [Data Viz Project](https://datavizproject.com/) chart use cases from Ferdio
+- [Data to Viz](https://www.data-to-viz.com/) decision tree: which chart type for data?
+
 ## General Resources
 
 - [Observable](https://observablehq.com/) data viz community site
-- [Data Visualisation Catalogue](https://datavizcatalogue.com/) chart use cases & descriptions
-- [Data Viz Project](https://datavizproject.com/) chart use cases from Ferdio
 - [Fundamentals of Data Vizualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/) by Claus O. Wilke (2019)
 - [r/vizualization](https://www.reddit.com/r/visualization/)
 - [Seeing Theory](https://seeing-theory.brown.edu/) Brown University intro: probablity & statistics
 - [Seeing Data](http://seeingdata.org/) Considering the role of dataviz in society
-- [The Data Vizualization Catalog](https://datavizcatalogue.com/resources.html)
 - [Data Visualization: A Practical Introduction](https://socviz.co/) by Kieran Healy (2019)
 - [Visualizing](https://www.visualizing.org/) community
 - [UW Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum) data and viz course with Python & Jupyter notebooks. JavaScript notebooks also available via Observable.
