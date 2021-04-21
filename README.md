@@ -2,9 +2,9 @@
 
 Resources for learning about dataviz and data narratives!
 
-## JS Libraries
+## JS Chart Libraries
 
-###### General Charting
+###### General Charts 
 
 - [ChartJS](https://www.chartjs.org/) Simple, clean design
 - [Highcharts](https://www.highcharts.com/) SVG charting
@@ -15,7 +15,7 @@ Resources for learning about dataviz and data narratives!
 - [Google Charts](https://developers.google.com/chart) No frills, Google-maintained
 - [Timeline](http://timeline.knightlab.com/) from Knight Lab at Northwestern University.
 
-###### React Specific
+###### React-specific
 
 - [Semiotic](https://semiotic.nteract.io/) data visualization framework
 - [Nivo](https://nivo.rocks/#/) Clean, robust, great docs
@@ -105,3 +105,11 @@ Resources for learning about dataviz and data narratives!
 - [The Data Storytelling Workbook](https://www.storytellingwithdata.com/) by Anna Feigenbaum & Aria Alamalhodaei (2020)
 - [Data Storytelling Podcast](https://www.storytellingwithdata.com/podcast/)
 - [Calling Bullshit: The Art of Skepticism in a Data-Driven World](https://www.callingbullshit.org/) by Carl T. Bergstrom & Jevin D. West (2020)
+
+###### Scrollytelling
+
+- [Scrollama](https://github.com/russellgoldenberg/scrollama) from [Russell Goldenberg](https://github.com/russellgoldenberg)
+- [React Scrollama](https://github.com/jsonkao/react-scrollama) react implementation
+- [Waypoints](http://imakewebthings.com/waypoints/) for sticky elemetns & scroll-based inserts
+- [Graph-Scroll](https://1wheel.github.io/graph-scroll/) events for D3 graphics
+- [In-View](https://camwiegert.github.io/in-view/) get notified when a DOM element enters or exits the viewport
