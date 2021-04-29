@@ -81,6 +81,7 @@ Resources for learning about dataviz and data narratives!
 
 ## General Resources
 
+- [VizHub](https://vizhub.com/) from Curran Kelleher
 - [Observable](https://observablehq.com/) data viz community site
 - [Fundamentals of Data Vizualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/) by Claus O. Wilke (2019)
 - [r/vizualization](https://www.reddit.com/r/visualization/)
@@ -92,6 +93,7 @@ Resources for learning about dataviz and data narratives!
 
 ## People
 
+- [Curran Kelleher](https://github.com/curran)
 - [Enrico Bertini](http://enrico.bertini.io/)
 - [Nadieh Bremer](https://www.visualcinnamon.com/)
 - [Joshua Smith](https://medium.com/@jdsmith5566)
