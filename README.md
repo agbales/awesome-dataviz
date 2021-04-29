@@ -4,7 +4,7 @@ Resources for learning about dataviz and data narratives!
 
 ## JS Chart Libraries
 
-###### General Charts 
+###### General Charts
 
 - [ChartJS](https://www.chartjs.org/) Simple, clean design
 - [Highcharts](https://www.highcharts.com/) SVG charting
@@ -55,6 +55,12 @@ Resources for learning about dataviz and data narratives!
 ## Work in the wild
 
 - [The Pudding](https://pudding.cool/)
+- [The Upshot](https://www.nytimes.com/section/upshot) New York Times
+- [Graphic Detail](https://www.economist.com/graphic-detail) The Economist
+- [Reuters Graphics](https://graphics.reuters.com/)
+- [FiveThirtyEight](https://fivethirtyeight.com/)
+- [Flowing Data](https://flowingdata.com/)
+- [Quartz](https://qz.com/re/data-visualization/)
 - [Information Is Beautiful](https://informationisbeautiful.net/)
 - [Visual Complexity](http://www.visualcomplexity.com/vc/)
 
@@ -63,9 +69,8 @@ Resources for learning about dataviz and data narratives!
 - [Dataviz Today](https://dataviztoday.com/) Hosted by [Alli Torban](https://dataviztoday.com/about), who shares the "latest tools and methods that she’s discovered while on the job and interviewing top designers." Made with analysts, journalists, & designers in mind.
 - [Questions in Dataviz](https://questionsindataviz.com/) Blog from [Neil Richards](https://twitter.com/theneilrichards)
 - [Data Stories](https://datastori.es/) Podcast from Enrico Bertini & Moritz Stefaner
-- [DataFramed](https://www.datacamp.com/community/podcast) Podcast - data science with Hugo Bowne-Anderson. 
+- [DataFramed](https://www.datacamp.com/community/podcast) Podcast - data science with Hugo Bowne-Anderson.
 - [Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/) subreddit
-
 
 ## Chart Types
 
@@ -100,7 +105,7 @@ Resources for learning about dataviz and data narratives!
 ## Data storytelling
 
 - [Data Stories](http://datastori.es/) Podcast with with NYU prof. [Enrico Bertini](http://enrico.bertini.io/) & [Moritz Stefaner](http://truth-and-beauty.net/)
-- [Effective Data Storytelling: How to drive change with data, narrative, and visuals](https://www.effectivedatastorytelling.com/) by Brend Dykes (2020) 
+- [Effective Data Storytelling: How to drive change with data, narrative, and visuals](https://www.effectivedatastorytelling.com/) by Brend Dykes (2020)
 - [Data Storytelling](https://www.tableau.com/data-storytelling) whitepaper from Tableau
 - [The Data Storytelling Workbook](https://www.storytellingwithdata.com/) by Anna Feigenbaum & Aria Alamalhodaei (2020)
 - [Data Storytelling Podcast](https://www.storytellingwithdata.com/podcast/)
