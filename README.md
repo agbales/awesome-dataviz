@@ -28,11 +28,12 @@ Resources for learning about dataviz and data narratives!
 - [react-table](https://react-table.tanstack.com/) Simple & custom tables
 - [react-bootstrap](https://react-bootstrap.github.io/components/alerts) Comes in handy if you'd like to use bootstrap (tested!)
 
-###### From Scratch
+###### D3
 
 - [D3](https://d3js.org/) Foundational, powerful, custom charts
 - [D3FC](https://d3fc.io/) higher-level component starting point with D3
 - [Textures](https://riccardoscalco.it/textures/) SVG patterns
+- [Bl.ock Builder](https://blockbuilder.org/)in-browser D3 code editor [Search Blocks](https://blockbuilder.org/search)
 
 ###### 3D
 
