@@ -1,6 +1,6 @@
 # aweome-dataviz
 
-Resources for learning about dataviz and data narratives!
+Resources for learning about & building dataviz projects!
 
 ## JS Chart Libraries
 
@@ -84,9 +84,9 @@ Resources for learning about dataviz and data narratives!
 
 - [VizHub](https://vizhub.com/) from Curran Kelleher
 - [Observable](https://observablehq.com/) data viz community site
-- [Fundamentals of Data Vizualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/) by Claus O. Wilke (2019)
-- [r/vizualization](https://www.reddit.com/r/visualization/)
-- [Seeing Theory](https://seeing-theory.brown.edu/) Brown University intro: probablity & statistics
+- [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/) by Claus O. Wilke (2019)
+- [r/visualization](https://www.reddit.com/r/visualization/)
+- [Seeing Theory](https://seeing-theory.brown.edu/) Brown University intro: probability & statistics
 - [Seeing Data](http://seeingdata.org/) Considering the role of dataviz in society
 - [Data Visualization: A Practical Introduction](https://socviz.co/) by Kieran Healy (2019)
 - [Visualizing](https://www.visualizing.org/) community
@@ -118,6 +118,13 @@ Resources for learning about dataviz and data narratives!
 
 - [Scrollama](https://github.com/russellgoldenberg/scrollama) from [Russell Goldenberg](https://github.com/russellgoldenberg)
 - [React Scrollama](https://github.com/jsonkao/react-scrollama) react implementation
-- [Waypoints](http://imakewebthings.com/waypoints/) for sticky elemetns & scroll-based inserts
+- [Waypoints](http://imakewebthings.com/waypoints/) for sticky elements & scroll-based inserts
 - [Graph-Scroll](https://1wheel.github.io/graph-scroll/) events for D3 graphics
 - [In-View](https://camwiegert.github.io/in-view/) get notified when a DOM element enters or exits the viewport
+
+## Color palettes
+
+- [Adobe color wheel](https://color.adobe.com/create/color-wheel) custom color combinations
+- [Coolors](https://coolors.co/palettes/trending) easy to browse collection
+- [Canva](https://www.canva.com/colors/color-palette-generator) palettes from a photo or browse collection
+
