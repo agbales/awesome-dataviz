@@ -34,7 +34,7 @@ Resources for learning about & building dataviz projects!
 - [D3](https://d3js.org/) Foundational, powerful, custom charts
 - [D3FC](https://d3fc.io/) higher-level component starting point with D3
 - [Textures](https://riccardoscalco.it/textures/) SVG patterns
-- [Bl.ock Builder](https://blockbuilder.org/)in-browser D3 code editor [Search Blocks](https://blockbuilder.org/search)
+- [Bl.ock Builder](https://blockbuilder.org/) [ARCHIVED] in-browser D3 code editor
 
 ###### 3D
 
@@ -83,7 +83,7 @@ Resources for learning about & building dataviz projects!
 
 ## General Resources
 
-- [VizHub](https://vizhub.com/) from Curran Kelleher
+- [Vizhub](https://vizhub.com) from [@currankelleher](https://twitter.com/currankelleher)
 - [Observable](https://observablehq.com/) data viz community site
 - [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/) by Claus O. Wilke (2019)
 - [r/visualization](https://www.reddit.com/r/visualization/)
