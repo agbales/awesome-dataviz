@@ -17,6 +17,7 @@ Resources for learning about & building dataviz projects!
 
 ###### React-specific
 
+- [React Simple Maps](https://www.react-simple-maps.io) simple, powerful SVG maps in react with d3-geo & topojson
 - [Semiotic](https://semiotic.nteract.io/) data visualization framework
 - [Nivo](https://nivo.rocks/#/) Clean, robust, great docs
 - [VX](https://vx-demo.now.sh/) React + D3
@@ -127,4 +128,3 @@ Resources for learning about & building dataviz projects!
 - [Adobe color wheel](https://color.adobe.com/create/color-wheel) custom color combinations
 - [Coolors](https://coolors.co/palettes/trending) easy to browse collection
 - [Canva](https://www.canva.com/colors/color-palette-generator) palettes from a photo or browse collection
-
