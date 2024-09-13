@@ -54,6 +54,12 @@ Resources for learning about & building dataviz projects!
 
 - [Metric Graphs](https://metricsgraphicsjs.org/) Metrics!
 
+## Python
+
+- [Bokeh](https://docs.bokeh.org/en/latest/) interactive viz for the web
+- [Matplotlib](https://matplotlib.org/stable/gallery/index.html) is a powerhouse
+- [Streamlit](https://docs.streamlit.io/develop/api-reference/charts/st.plotly_chart) is an open-source framework that makes creating sites easy, including simple charts
+
 ## Work in the wild
 
 - [The Pudding](https://pudding.cool/)
