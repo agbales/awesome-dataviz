@@ -28,13 +28,14 @@ Resources for learning about & building dataviz projects!
 - [react-vis](https://github.com/uber/react-vis) No frills general charting
 - [react-table](https://react-table.tanstack.com/) Simple & custom tables
 - [react-bootstrap](https://react-bootstrap.github.io/components/alerts) Comes in handy if you'd like to use bootstrap (tested!)
+- [vis-timeline](https://github.com/visjs/vis-timeline) Graph2D interactive for data across time. Here's a code [example](https://visjs.github.io/vis-timeline/docs/timeline/#Example)
 
 ###### D3
 
 - [D3](https://d3js.org/) Foundational, powerful, custom charts
 - [D3FC](https://d3fc.io/) higher-level component starting point with D3
 - [Textures](https://riccardoscalco.it/textures/) SVG patterns
-- [Bl.ock Builder](https://blockbuilder.org/) [ARCHIVED] in-browser D3 code editor
+- [Block Builder](https://blockbuilder.org/) [ARCHIVED] in-browser D3 code editor
 
 ###### 3D
 
